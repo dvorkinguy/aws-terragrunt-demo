@@ -1,0 +1,9 @@
+variable "cloudtrail_name" {}
+variable "s3_bucket_name" {}
+variable "cloudwatch_log_group_name" {}
+variable "metric_filter_name" {}
+variable "metric_filter_pattern" {}
+variable "subscription_filter_name" {}
+variable "subscription_filter_pattern" {}
+variable "sns_topic_name" {}
+variable "metric_alarm_name" {}
